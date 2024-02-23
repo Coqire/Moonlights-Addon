@@ -11,6 +11,7 @@
 
     SWEMS mod belongs to them and this mod only uses their models and animations to create more items.
 
+All code work is done by Coqire -> https://linktr.ee/coqire
 
  --- CREDITS ---
 
